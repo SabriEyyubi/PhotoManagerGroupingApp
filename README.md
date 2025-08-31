@@ -137,7 +137,6 @@ This project is prepared for Codeway iOS Developer Case Study.
 
 ## 👨‍💻 Developer
 
-- **Case Study**: Codeway iOS Developer
 - **Architecture**: MVVM + SOLID Principles
 - **UI Framework**: UIKit + SwiftUI Hybrid
 - **Performance**: Optimized for large photo libraries
