@@ -101,6 +101,10 @@ extension PHAsset {
 - **Thumbnail Optimization**: Fast format + quality format
 - **Memory Management**: Off-screen cleanup
 
+ ## Known Bugs
+- When first image detail open, image does not show up. After secong image click image show up and swipe works.
+- When user scan and kill app and re-enter progress saved but sometimes progress bar color UI does not update. 
+
 ## 📊 Case Study Requirements
 
 ✅ **Core Requirements:**
@@ -140,5 +144,3 @@ This project is prepared for Codeway iOS Developer Case Study.
 - **Performance**: Optimized for large photo libraries
 
 ---
-
-**Dream, measure, build, repeat** 🚀
