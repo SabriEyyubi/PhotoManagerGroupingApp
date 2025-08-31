@@ -1,6 +1,5 @@
-# Codeway iOS Developer Case Study
 
-## 📱 Photo Library Scanner & Grouping App
+# 📱 Photo Library Scanner & Grouping App
 
 This iOS application scans the device's photo library, generates a deterministic value for each photo, and groups them based on these values.
 
